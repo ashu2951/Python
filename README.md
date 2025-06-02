@@ -1,0 +1,41 @@
+# Python
+Python is an object-oriented, high-level programming language developed in C. It supports both simple and complex tasks, offering a wide range of built-in modules and libraries. Python is compatible with multiple languages such as Java, C, C++, and JSON, making it versatile for various applications.
+
+ 
+ In Python, you don't need to declare a variable's type because it is a dynamically typed language. For example:
+
+x = 10
+Example of Python Code:
+# This is a simple Python program
+
+#Eample 1
+
+print("Hello, Python!")
+Print(x)
+
+#Example 2
+
+x = 10
+
+y = 5
+
+sum = x + y
+
+print(f"The sum of {x} and {y} is {sum}.")
+
+Sum
+
+#Simple Python Program to see if a user is eligible to vote or not.
+# getting user’s name 
+print("Enter your name:")
+name = input()
+# getting user’s age
+print("Enter your age:")
+age = int(input())
+# condition to check if user is eligible to vote or not
+if( age >= 18 ):
+    print( name, ' is eligible to vote.')
+    print("Hey there")
+else:
+    print( name, ' is not eligible to vote.')
+    print("good bye")
