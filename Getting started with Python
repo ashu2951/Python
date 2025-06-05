@@ -80,5 +80,6 @@ np.mean(vector)    # mean
 np.median(vector)  # median 
 np.var(vector)     # variance 
 np.std(vector)     # standar devation 
-
+# NUMPY
+NumPy stands for Numerical Python. It is one of the most important foundational packages for numerical computing & data analysis in Python.
 
