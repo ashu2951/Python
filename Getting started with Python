@@ -75,6 +75,10 @@ print(vector * 2)
 print(vector + 5)      
 print(np.dot(vector, vector))  
 # To see all available functions and attributes in NumPy, type np. and then press Tab.
- 
+ Example 
+np.mean(vector)    # mean
+np.median(vector)  # median 
+np.var(vector)     # variance 
+np.std(vector)     # standar devation 
 
 
