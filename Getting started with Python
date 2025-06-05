@@ -1,0 +1,24 @@
+You can enter commands one at a time at the command prompt ( = ).
+
+For example: X = 7 means that X is assigned the value 7."
+
+• Python supports a wide variety of data types, including numeric, string, boolean, lists, tuples, dictionaries, sets, and more. For data analysis, Python also uses structures like NumPy arrays (similar to vectors and matrices) and Pandas DataFrames."
+
+🔍 Explanation:
+Vectors: Not a native Python term — usually refers to NumPy arrays.
+
+Matrices: Python uses NumPy or nested lists for this.
+
+Data frames: In Python, these are provided by the pandas library (pandas.DataFrame).
+
+Lists: Native to Python, like R’s generic vectors.
+
+🧠 Summary Table (R vs Python terms)
+Concept                   	R Term	                 Python Equivalent
+Numeric vector	            c(1,2,3)	               numpy.array([1,2,3])
+Character vector	         c("a","b")	             ["a", "b"] (list or array)
+Logical vector	            c(TRUE,FALSE)	           [True, False]
+Matrix                     matrix()	              numpy.matrix or 2D array
+Data frame	                data.frame()            pandas.DataFrame
+List	l                   ist()	                   list
+
