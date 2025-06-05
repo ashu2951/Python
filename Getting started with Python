@@ -21,23 +21,60 @@ Logical vector	            c(TRUE,FALSE)	           [True, False]
 Matrix                     matrix()	              numpy.matrix or 2D array
 Data frame	                data.frame()            pandas.DataFrame
 List	l                   ist()	                   list
-
-
 # create vectors
 
 Python lists can act like simple vectors for many tasks.
-Example late 
+Example 1 
 X=5 and Y=6
 
 # python code 
 X=6
-
 Y=5
-
-
 print(X/Y)
 print (X*Y)
 print (X-Y)
 print (X+Y)
+EXample 2
+# Numeric vector
+Z=[20, 22, 25, 45]
+S=sum(Z)
+print(S)
+# Character vector
+Fruit= ["apple", "banana", "cherry"]
+print(Fruit)
+# Logical (Boolean) vector
+Logic = [True, False, True]
+print(Logic)
+ Excercise1
+
+a. Write a value 5 on Python 
+b. Assign 5 to y
+c. Square y
+d. Assign y plus 10 to the variable x
+e. Multiply y and x and assign it to z
+f. Divide z to 13
+g. Write sequence of integers from 1 to 12
+y=5
+sq=y**2
+x=y+10
+z=y*x
+d=z/13
+s= list(range(1, 13))
+print(sq)
+print(x)
+print(d)
+print(s)
+
+# Using NumPy Array (True Mathematical Vector)
+For real vector math, use the NumPy library:
+import numpy as np
+
+# Example 
+vector = np.array([9, 78, 48])
+print(vector * 2)      
+print(vector + 5)      
+print(np.dot(vector, vector))  
+# To see all available functions and attributes in NumPy, type np. and then press Tab.
+ 
 
 
