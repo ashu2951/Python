@@ -26,6 +26,18 @@ List	l                   ist()	                   list
 # create vectors
 
 Python lists can act like simple vectors for many tasks.
+Example late 
+X=5 and Y=6
 
+# python code 
+X=6
+
+Y=5
+
+
+print(X/Y)
+print (X*Y)
+print (X-Y)
+print (X+Y)
 
 
