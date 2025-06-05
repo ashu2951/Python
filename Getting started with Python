@@ -22,3 +22,10 @@ Matrix                     matrix()	              numpy.matrix or 2D array
 Data frame	                data.frame()            pandas.DataFrame
 List	l                   ist()	                   list
 
+
+# create vectors
+
+Python lists can act like simple vectors for many tasks.
+
+
+
