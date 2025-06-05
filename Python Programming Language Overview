@@ -1,8 +1,13 @@
+
 # Python
 Python is an object-oriented, high-level programming language developed in C. It supports both simple and complex tasks, offering a wide range of built-in modules and libraries. Python is compatible with multiple languages such as Java, C, C++, and JSON, making it versatile for various applications.
 
  
  In Python, you don't need to declare a variable's type because it is a dynamically typed language. For example:
+
+To Install a Python Package in CoCalc (Jupyter Notebook)
+
+https://cocalc.com
 
 x = 10
 Example of Python Code:
