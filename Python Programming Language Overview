@@ -47,24 +47,17 @@ else:
 
 
 # Basic Arithmetic
-
 # Addition
 print(5 + 3)  
-
 # Subtraction
 print(10 - 4)  
-
 # Multiplication
 print(7 * 6)  
-
 # Division
 print(20 / 4)  
-
 # Integer Division
 print(20 // 3)  
-
 # Modulus (remainder)
 print(20 % 3)  
-
 # Exponentiation
- $ print(2 ** 3)  
+  print(2 ** 3)  
